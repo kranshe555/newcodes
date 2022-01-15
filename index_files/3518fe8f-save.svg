@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#9E97F2;}
+	.st1{fill:#FFBB78;}
+	.st2{fill:#FF6A66;}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+</style>
+<circle class="st0" cx="60.6" cy="15.3" r="15.3"></circle>
+<circle class="st1" cx="334.1" cy="496.7" r="15.3"></circle>
+<circle class="st2" cx="471.9" cy="44.8" r="19.2"></circle>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="184.2373" y1="455.823" x2="415.2373" y2="165.823">
+		<stop offset="0" style="stop-color:#FF6A65"></stop>
+		<stop offset="0.276" style="stop-color:#FF6E65"></stop>
+		<stop offset="0.576" style="stop-color:#FF7B65"></stop>
+		<stop offset="0.8864" style="stop-color:#FF9165"></stop>
+		<stop offset="1" style="stop-color:#FF9B65"></stop>
+	</linearGradient>
+	<path class="st3" d="M309.4,320h-136c-15.4,0-28,12.6-28,28v72c0,15.4,12.6,28,28,28h136c15.4,0,28-12.6,28-28v-72   C337.4,332.6,324.9,320,309.4,320L309.4,320z M293.4,376h-40c-6.6,0-12-5.4-12-12s5.4-12,12-12h40c6.6,0,12,5.4,12,12   S300.1,376,293.4,376L293.4,376z M293.4,376"></path>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="107.1879" y1="394.4491" x2="338.1879" y2="104.4491">
+		<stop offset="0" style="stop-color:#FF6A65"></stop>
+		<stop offset="0.276" style="stop-color:#FF6E65"></stop>
+		<stop offset="0.576" style="stop-color:#FF7B65"></stop>
+		<stop offset="0.8864" style="stop-color:#FF9165"></stop>
+		<stop offset="1" style="stop-color:#FF9B65"></stop>
+	</linearGradient>
+	<path class="st4" d="M241.4,64c-105.9,0-192,84.5-192,188.3v7.7c0,6.6,5.4,12,12,12c6.6,0,12-5.4,12-12c0-18.8,14.8-34,33-34   c18.2,0,33,15.2,33,34c0,6.6,5.4,12,12,12s12-5.4,12-12c0-18.8,14.8-34,33-34c18.2,0,33,15.2,33,34v16c0,6.6,5.4,12,12,12   c6.6,0,12-5.4,12-12v-16c0-18.8,14.8-34,33-34c18.2,0,33,15.2,33,34c0,6.6,5.4,12,12,12c6.6,0,12-5.4,12-12c0-18.8,14.8-34,33-34   c18.2,0,33,15.2,33,34c0,6.6,5.4,12,12,12c6.6,0,12-5.4,12-12v-7.7C433.4,148.5,347.3,64,241.4,64L241.4,64z M286.1,196.5   c-20,0-37.2,11.3-44.6,27.5c-7.5-16.2-24.7-27.5-44.6-27.5c-10.1,0-19.5,2.9-27.4,7.9c7.9-57.9,30.3-95.8,72-124.3   c41.7,28.6,64.1,66.5,72,124.3C305.6,199.4,296.2,196.5,286.1,196.5L286.1,196.5z M286.1,196.5"></path>
+</g>
+</svg>
